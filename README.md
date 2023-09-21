@@ -1,12 +1,13 @@
 # LG-Demand_Forecasting [(Link)](https://dacon.io/competitions/official/236080/leaderboard)
 
 ## 🏆 Result
-# **Public score 1st** 0.60347 | **Private score 1st** 0.58922
+# **Public score 1st** 0.60347 | **Private score 1st** 0.58922 | 최종 1등
+
+<img width="100%" src="https://github.com/jjuhyeok/LG-Demand_Forecasting/assets/49608953/9eab431a-5110-4d7d-9857-b60c2a2bfd0b"/>
 
 주최 : ```LG AI Research + LG 생활건강```
 
 규모 : 총 1400여명 참가
-
   
 
   
