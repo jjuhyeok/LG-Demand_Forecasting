@@ -1,7 +1,7 @@
 # LG-Demand_Forecasting [(Link)](https://dacon.io/competitions/official/236080/leaderboard)
 
 ## 🏆 Result
-# **Public score 1st** 0.60347 | **Private score 1st** 0.58922 | 최종 1등
+## **Public score 1st** 0.60347 | **Private score 1st** 0.58922 | 최종 1등
 
 <img width="100%" src="https://github.com/jjuhyeok/LG-Demand_Forecasting/assets/49608953/9eab431a-5110-4d7d-9857-b60c2a2bfd0b"/>
 
