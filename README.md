@@ -200,6 +200,6 @@ smoothing
 
 **Predict Model**
 ```
-Autogluon
-Catboost
+LSTF-Linear
+LSTM
 ```
