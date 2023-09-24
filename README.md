@@ -163,9 +163,9 @@ train.csv에 존재하는 모든 제품 코드가 포함되어 있지 않음. �
 ## 🔧 Feature Engineering
 ```
 
-smoothing
-- kalman filter, moving average, moving median, log
-분산 / 합 / 차
+*Custom Imputation
+
+*Custom Post Processing
 
 ```
 
